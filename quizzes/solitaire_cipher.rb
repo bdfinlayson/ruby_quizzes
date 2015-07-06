@@ -5,6 +5,7 @@ class SolitaireCipher
   def parse_input(input)
     #discard all non letter characters
     #uppercase the remaining characters
+    #group by 5 and fill with X for groups less than 5
     result = Array.new
     arr = input.split('')
     arr.each do |char|
@@ -13,8 +14,24 @@ class SolitaireCipher
     group_and_fill(result)
   end
 
+
+  def convert_input(input)
+    alphabet = create_alphabet_hash
+    array = Array.new
+    input.each_char do |char|
+      array << alphabet[char] unless char.strip.empty?
+    end
+    array.join(' ')
+  end
+
+
+
   private
 
+  def create_alphabet_hash
+    arr = ('A'..'Z').to_a.zip((1..26).to_a)
+    numbered_letters = Hash[arr.map {|key,value| [key, value]}]
+  end
   def group_and_fill(input)
     array = Array.new
 
