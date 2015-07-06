@@ -1,5 +1,5 @@
 # ruby_quizzes
-My solutions to quiz questions from rubyquiz.com
+My solutions to quiz questions from [rubyquiz.com]( http://rubyquiz.com/ )
 
 The following is a list of available quizzes with a checkmark by the ones I've completed:
 
