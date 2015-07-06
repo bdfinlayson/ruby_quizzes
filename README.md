@@ -3,159 +3,159 @@ My solutions to quiz questions from rubyquiz.com
 
 The following is a list of available quizzes with a checkmark by the ones I've completed:
 
-- [] The Solitaire Cipher
-- [] Secret Santas
-- [] Geodesic Dome Faces
-- [] Regexp.build()
-- [] Sokoban
-- [] GEDCOM Parser
-- [] Countdown
-- [] Object Browser
-- [] Banned Words
-- [] Crosswords
-- [] Learning Tic-Tac-Toe
-- [] Scrabble Stems
-- [] Cryptograms
-- [] LCD Numbers
-- [] Animal Quiz
-- [] Paper Rock Scissors
-- [] To Excel
-- [] Solving Tactics
-- [] Yahtzee
-- [] 1-800-THE-QUIZ
-- [] Phone Typing
-- [] Roman Numerals
-- [] Quoted Printable
-- [] Texas Hold'Em
-- [] English Numerals
-- [] Code Cleaning
-- [] Knight's Travails
-- [] Madlibs
-- [] HighLine
-- [] Barrel of Monkeys
-- [] Amazing Mazes
-- [] Cows and Bulls
-- [] Tiling Turmoil
-- [] Whiteout
-- [] Chess Variants (I)
-- [] Chess Variants (II)
-- [] Inference Engine
-- [] SerializableProc
-- [] Sampling
-- [] Drawing Trees
-- [] Stock Portfolios
-- [] Scheduling
-- [] Sodoku Solver
-- [] Word Chains
-- [] MUD Client
-- [] NDiff
-- [] Ruby Jobs Site
-- [] Math Captcha
-- [] Lisp Game
-- [] Text Image
-- [] Lost Cities
-- [] Ducksay
-- [] TumbleDRYer
-- [] Index and Query
-- [] Euchre Hands
-- [] Pinewood Derby Chart
-- [] Weird Numbers
-- [] Kalah
-- [] RRobots
-- [] Numeric Maze
-- [] Dice Roller
-- [] Packing
-- [] Grid Folding
-- [] Port a Library
-- [] Splitting the Loot
-- [] FasterGenerator
-- [] metakoans.rb
-- [] Current Temperature
-- [] The Golden Fibonacci Ratio
-- [] Constraint Processing
-- [] Space Merchant
-- [] B & E
-- [] Testing DiGraph
-- [] Markov Chains
-- [] Refactoring
-- [] Text Munger
-- [] cat2rafb
-- [] Bracket Packing
-- [] Tab Player
-- [] Dungeon Generation
-- [] Hash to OpenStruct
-- [] Running Coach
-- [] Short But Unique
-- [] pp Pascal
-- [] C-Style Ints
-- [] Panagrams
-- [] Negative Sleep
-- [] Chip-8
-- [] Proper Case
-- [] Pen and Paper
-- [] QAPrototype
-- [] DayRange
-- [] Happy Numbers
-- [] Secret Agent 00111
-- [] Code to S-Exp
-- [] Story Generator
-- [] Posix Pangrams
-- [] A*
-- [] Fuzzy Time
-- [] Bytecode Compiler
-- [] VCR Program Manager
-- [] Literate Ruby
-- [] DictionaryMatcher
-- [] Turtle Graphics
-- [] Tournament Matchups
-- [] Chess960
-- [] Word Search
-- [] Word Blender
-- [] Number Spiral
-- [] Method Auto Completion
-- [] Counting Toothpicks
-- [] String Equations
-- [] One-Liners
-- [] Housie
-- [] Mailing List Files
-- [] GOPS
-- [] SimFrost
-- [] Micrrowave Numbers
-- [] Getting to 100
-- [] Magic Fingers
-- [] Morse Code
-- [] Checking Credit Cards
-- [] Huffman Encoder
-- [] Magic Squares
-- [] Fractals
+- [ ] The Solitaire Cipher
+- [ ] Secret Santas
+- [ ] Geodesic Dome Faces
+- [ ] Regexp.build()
+- [ ] Sokoban
+- [ ] GEDCOM Parser
+- [ ] Countdown
+- [ ] Object Browser
+- [ ] Banned Words
+- [ ] Crosswords
+- [ ] Learning Tic-Tac-Toe
+- [ ] Scrabble Stems
+- [ ] Cryptograms
+- [ ] LCD Numbers
+- [ ] Animal Quiz
+- [ ] Paper Rock Scissors
+- [ ] To Excel
+- [ ] Solving Tactics
+- [ ] Yahtzee
+- [ ] 1-800-THE-QUIZ
+- [ ] Phone Typing
+- [ ] Roman Numerals
+- [ ] Quoted Printable
+- [ ] Texas Hold'Em
+- [ ] English Numerals
+- [ ] Code Cleaning
+- [ ] Knight's Travails
+- [ ] Madlibs
+- [ ] HighLine
+- [ ] Barrel of Monkeys
+- [ ] Amazing Mazes
+- [ ] Cows and Bulls
+- [ ] Tiling Turmoil
+- [ ] Whiteout
+- [ ] Chess Variants (I)
+- [ ] Chess Variants (II)
+- [ ] Inference Engine
+- [ ] SerializableProc
+- [ ] Sampling
+- [ ] Drawing Trees
+- [ ] Stock Portfolios
+- [ ] Scheduling
+- [ ] Sodoku Solver
+- [ ] Word Chains
+- [ ] MUD Client
+- [ ] NDiff
+- [ ] Ruby Jobs Site
+- [ ] Math Captcha
+- [ ] Lisp Game
+- [ ] Text Image
+- [ ] Lost Cities
+- [ ] Ducksay
+- [ ] TumbleDRYer
+- [ ] Index and Query
+- [ ] Euchre Hands
+- [ ] Pinewood Derby Chart
+- [ ] Weird Numbers
+- [ ] Kalah
+- [ ] RRobots
+- [ ] Numeric Maze
+- [ ] Dice Roller
+- [ ] Packing
+- [ ] Grid Folding
+- [ ] Port a Library
+- [ ] Splitting the Loot
+- [ ] FasterGenerator
+- [ ] metakoans.rb
+- [ ] Current Temperature
+- [ ] The Golden Fibonacci Ratio
+- [ ] Constraint Processing
+- [ ] Space Merchant
+- [ ] B & E
+- [ ] Testing DiGraph
+- [ ] Markov Chains
+- [ ] Refactoring
+- [ ] Text Munger
+- [ ] cat2rafb
+- [ ] Bracket Packing
+- [ ] Tab Player
+- [ ] Dungeon Generation
+- [ ] Hash to OpenStruct
+- [ ] Running Coach
+- [ ] Short But Unique
+- [ ] pp Pascal
+- [ ] C-Style Ints
+- [ ] Panagrams
+- [ ] Negative Sleep
+- [ ] Chip-8
+- [ ] Proper Case
+- [ ] Pen and Paper
+- [ ] QAPrototype
+- [ ] DayRange
+- [ ] Happy Numbers
+- [ ] Secret Agent 00111
+- [ ] Code to S-Exp
+- [ ] Story Generator
+- [ ] Posix Pangrams
+- [ ] A*
+- [ ] Fuzzy Time
+- [ ] Bytecode Compiler
+- [ ] VCR Program Manager
+- [ ] Literate Ruby
+- [ ] DictionaryMatcher
+- [ ] Turtle Graphics
+- [ ] Tournament Matchups
+- [ ] Chess960
+- [ ] Word Search
+- [ ] Word Blender
+- [ ] Number Spiral
+- [ ] Method Auto Completion
+- [ ] Counting Toothpicks
+- [ ] String Equations
+- [ ] One-Liners
+- [ ] Housie
+- [ ] Mailing List Files
+- [ ] GOPS
+- [ ] SimFrost
+- [ ] Micrrowave Numbers
+- [ ] Getting to 100
+- [ ] Magic Fingers
+- [ ] Morse Code
+- [ ] Checking Credit Cards
+- [ ] Huffman Encoder
+- [ ] Magic Squares
+- [ ] Fractals
 - [x] FizzBuzz
-- [] Mexican Blanket
-- [] Verbal Arithmetic
-- [] LSRC Name Picker
-- [] Hangman
-- [] Maximum Sub-Array
-- [] Crossword Solver
-- [] Numbers Can Be Words
-- [] Cellular Automata
-- [] Process Rings
-- [] ID3 Tags
-- [] Twisting a Rope
-- [] Count and Say
-- [] IP to Country
-- [] Shirt Reader
-- [] Probable Iterations
-- [] Itinerary for a Traveling Salesman
-- [] Reverse the Polarity
-- [] Time Window
-- [] Editing Text
-- [] Vehicle Counters
-- [] Goedel
-- [] Postfix to Infix
-- [] Word Loop
-- [] Programmer Ping-Pong
-- [] Studying Blackjack
-- [] Counting Cards
-- [] Longest Repeated Substring
-- [] Making Change
-- [] Parsing JSON
-- [] Internal Rate of Return
+- [ ] Mexican Blanket
+- [ ] Verbal Arithmetic
+- [ ] LSRC Name Picker
+- [ ] Hangman
+- [ ] Maximum Sub-Array
+- [ ] Crossword Solver
+- [ ] Numbers Can Be Words
+- [ ] Cellular Automata
+- [ ] Process Rings
+- [ ] ID3 Tags
+- [ ] Twisting a Rope
+- [ ] Count and Say
+- [ ] IP to Country
+- [ ] Shirt Reader
+- [ ] Probable Iterations
+- [ ] Itinerary for a Traveling Salesman
+- [ ] Reverse the Polarity
+- [ ] Time Window
+- [ ] Editing Text
+- [ ] Vehicle Counters
+- [ ] Goedel
+- [ ] Postfix to Infix
+- [ ] Word Loop
+- [ ] Programmer Ping-Pong
+- [ ] Studying Blackjack
+- [ ] Counting Cards
+- [ ] Longest Repeated Substring
+- [ ] Making Change
+- [ ] Parsing JSON
+- [ ] Internal Rate of Return
